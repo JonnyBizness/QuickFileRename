@@ -1,8 +1,10 @@
 ## QuickFileRename
 Quick script for renaming multiple files in a numeric order.
 
-# Why?
-I got some files with a whole lot of bs in the names and i like my tv series to be organized...idk. 
+If you find this looking for free software, go here:
+https://www.advancedrenamer.com/
+
+I wrote this for fun more than anything.
 
 # How to?
 
